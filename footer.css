@@ -1,0 +1,20 @@
+.dark-logo {
+    height: 70px;
+}
+footer > div > div:nth-child(2) h6 {
+    text-decoration: underline;
+    color: #f7941d;
+}
+footer {
+    margin: 10px auto 0 auto;
+}
+footer {
+    background: #192041;
+    color: #fff;
+    border-top: 10px solid #f7941d;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    font-size:16px;
+}
